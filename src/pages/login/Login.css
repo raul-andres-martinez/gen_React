@@ -1,0 +1,12 @@
+.text__bold{
+    font-weight: bold !important;
+}
+
+.login__img {
+    background-image: url(../img/login-img.svg);
+    background-repeat: no-repeat; 
+    width: 100vh; 
+    min-height: 100vh; 
+    background-size: cover;
+    background-position: -30px 150px;
+}

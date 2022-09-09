@@ -1,0 +1,37 @@
+:root{
+    --color: 260;
+    --primary-color: hsl(var(--hue), 100%, 60%);
+    --color-light: hsl(var(--color), 90%, 95%);
+    --bg-dark: hsl(var(--color), 90%, 10%);
+    --text-color-lg: hsl(var(--color), 100%, 100%);
+}
+
+.no__text__decorator{
+    text-decoration: none;
+}
+
+.margin__auto{
+    margin: auto;
+}
+
+.btn__primary{
+    background-color: rgb(119, 51, 255) !important;
+    color: var(--text-color-lg) !important;
+}
+
+.btn__primary:hover {
+    background-color: rgba(119, 51, 255, 0.719) !important;
+}
+
+.btn__secondary{
+    background-color: rgb(255, 51, 51) !important    ;
+}
+
+.btn__secondary:hover {
+    background-color: rgba(255, 51, 51, 0.719) !important;
+}
+
+.btn__outlined {
+    color: rgb(119, 51, 255) !important;
+    border: rgba(119, 51, 255, 0.300) 1px solid !important;
+}

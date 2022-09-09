@@ -1,0 +1,16 @@
+.footer{
+    background-color: var(--bg-dark);
+}
+
+.footer__text{
+    color: var(--text-color-lg);
+}
+
+.social {
+    font-size: 60px;
+    color: var(--color-light);
+}
+
+.text {
+    color: var(--text-color-lg);
+}

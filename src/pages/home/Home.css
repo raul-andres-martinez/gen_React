@@ -1,0 +1,13 @@
+.cointainer{
+    background-color: var(--primary-color);
+}
+
+.title{
+    color: var(--primary-color) !important;
+    font-weight: bold !important;
+    text-align: center;
+}
+
+.posts{
+    background-color: var(--primary-color);
+}
